@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Solskolan",
+        "max_pupils" : 2,
+        "entry_points" : [
+            {
+                "name" : "1",
+                "north" : 59.38045,
+                "east" : 17.89110
+            },
+            {
+                "name" : "2",
+                "north" : 59.38067,
+                "east" : 17.89261
+            },
+            {
+                "name" : "3",
+                "north" : 59.38107,
+                "east" :  17.89251
+            },
+            {
+                "name" : "4",
+                "north" : 59.38141,
+                "east" : 17.89085
+            }
+        ]
+    },
+    {
+        "name" : "Regnskolan",
+        "max_pupils" : 2,
+        "entry_points" : [
+            {
+                "name" : "1",
+                "north" : 59.38596,
+                "east" : 17.88651
+            },
+            {
+                "name" : "2",
+                "north" : 59.38556,
+                "east" : 17.88675
+            },
+            {
+                "name" : "3",
+                "north" : 59.38566,
+                "east" :  17.88755
+            },
+            {
+                "name" : "4",
+                "north" : 59.38605,
+                "east" : 17.88804
+            },
+            {
+                "name" : "5",
+                "north" : 59.38631,
+                "east" : 17.88721
+            }
+        ]
+    },
+    {
+        "name" : "Blixtskolan",
+        "max_pupils" : 2,
+        "entry_points" : [
+            {
+                "name" : "1",
+                "north" : 59.37766,
+                "east" : 17.87582
+            },
+            {
+                "name" : "2",
+                "north" : 59.37740,
+                "east" : 17.87543
+            },
+            {
+                "name" : "3",
+                "north" : 59.37690,
+                "east" :  17.87435
+            },
+            {
+                "name" : "4",
+                "north" : 59.37817,
+                "east" : 17.87373
+            },
+            {
+                "name" : "5",
+                "north" : 59.37776,
+                "east" : 17.87381
+            },
+            {
+                "name" : "6",
+                "north" : 59.37723,
+                "east" : 17.87377
+            },
+            {
+                "name" : "7",
+                "north" : 59.37808,
+                "east" : 17.87528
+            }
+            
+        ]
+    },
+    {
+        "name" : "Hagelskolan",
+        "max_pupils" : 2,
+        "entry_points" : [
+            {
+                "name" : "1",
+                "north" : 59.36943,
+                "east" : 17.88529
+            },
+            {
+                "name" : "2",
+                "north" : 59.37055,
+                "east" : 17.88376
+            },
+            {
+                "name" : "3",
+                "north" : 59.37069,
+                "east" : 17.88578 
+            }
+        ]
+    }
+]

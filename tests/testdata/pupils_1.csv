@@ -1,0 +1,7 @@
+person_id;first_name;last_name;street_address;zipcode;postal_address;choice_1;choice_2;choice_3;sibling_priority
+1;Frank;Frankson;Gata 1;12345;Storstan;Solskolan;Regnskolan;Blixtskolan;
+2;Kalle;Karlsson;Gata 2;12345;Storstan;Solskolan;Regnskolan;Hagelskolan;
+3;Erik;Eriksson;Gata 3;12345;Storstan;Hagelskolan;Solskolan;Blixtskolan;
+4;Karin;Karinson;Gata 4;12345;Storstan;Spånga;Regnskolan;Solskolan;Blixtskolan;
+5;Simon;Simonson;Gata 5;12345;Storstan;Solskolan;Hagelskolan;Blixtskolan;
+5;Lotta;Lottason;Gata 6;12345;Storstan;Solskolan;Hagelskolan;Blixtskolan;
